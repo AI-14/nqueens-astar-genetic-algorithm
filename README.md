@@ -10,9 +10,10 @@
    Design a GUI for solving N-Queens problem using A* and Genetic Algorihtms. For more details, see *202-ICS381-PA01.pdf*.
    
 ## Demo GIF/Screenshots
+   
    **Note:** We can use the algorithms as a text-based instead of GUI. Under ````algorithms/```` folder, run the corresponding algorithms by calling static functions
    ````RunAStarAlgorithm.run_a_star()```` for A* and ````RunGeneticAlgorithm.run_ga()```` for Genetic algorithm and pass their parameters. One additional task has to be done
-   i.e. create a folder called ````states_images````. This folder stores the images of states.
+   if you are using text-based UI i.e. create a folder called ````states_images```` (this folder stores the images of states).
 
 
 ## Installation And Usage
