@@ -7,10 +7,19 @@
    Course Project: ICS 381/202 - Principles Of Artificial Intelligence
    
 ## Description
-
+   Design a GUI for solving N-Queens problem using A* and Genetic Algorihtms. For more details, see *202-ICS381-PA01.pdf*
 
 
 ## Demo GIF/Screenshots
 
 
 ## Installation And Usage
+1. Installation
+   - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
+   - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
+   - Then run the following command ````pip install -r requirements.txt````. With this, all the dependencies will be installed in your virtual environment. 
+> **Note:** *If any dependency is missing or an error shows up, install it using ````pip install moduleName````*.
+
+2. Usage
+   - Open your project folder and go to the terminal and activate your virtual environment. 
+   - Run PA1.py file.
