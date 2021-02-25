@@ -4,6 +4,8 @@
    ![A*](https://img.shields.io/badge/-A*%20Algorithm-f0806c?style=flat)
    ![Genetic Algorithm](https://img.shields.io/badge/-Genetic%20Algorithm-g0806c?style=flat)
    
+   Course Project: ICS 381/202 - Principles Of Artificial Intelligence
+   
 ## Description
 
 
