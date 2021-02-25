@@ -11,7 +11,7 @@
    
 ## Demo GIF/Screenshots
    **Note:** We can use the algorithms as a text-based instead of GUI. Under ````algorithms/```` folder, run the corresponding algorithms by calling static functions
-   ````RunAStarAlgorithm.run_a_star()```` for A* and ````RunGeneticAlgorithm.run_ga()```` for Genetic algorithm and pass its parameters.
+   ````RunAStarAlgorithm.run_a_star()```` for A* and ````RunGeneticAlgorithm.run_ga()```` for Genetic algorithm and pass their parameters.
 
 
 ## Installation And Usage
