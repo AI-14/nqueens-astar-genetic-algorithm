@@ -144,7 +144,12 @@ class RunAStarAlgorithm:
         # In this case steps = search_space_depth. Hence, subtracting 1.
         if not goal_reached:
             steps -= 1
-            
+        
+        print('###########################################')
+        print(f'Total Steps = {steps}')
+        print(f'Solution = {curr_state}')
+        print(f'Time taken = {time_taken} seconds')
+        
         return [steps, time_taken, goal_reached] 
         
     @staticmethod
