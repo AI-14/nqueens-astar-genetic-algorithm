@@ -16,7 +16,7 @@
    ````RunAStarAlgorithm.run_a_star()```` for A* and ````RunGeneticAlgorithm.run_ga()```` for Genetic algorithm and pass their parameters. One additional task has to be done
    if you are using text-based UI i.e. create a folder called ````states_images```` (this folder stores the images of states).
    
-   - Screenshots of A* and Genetic Algorithm (Text-based UI)
+   Screenshots of A* and Genetic Algorithm (Text-based UI)
    
    <img src="readme_res//TextBasedUI-AStar.png" width="500"/>
    
