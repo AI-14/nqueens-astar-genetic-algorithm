@@ -156,7 +156,7 @@ class GeneticAlgorithm:
         return child
 
 
-class RunGeneticAlgorithm():
+class RunGeneticAlgorithm:
     """Class for running the algorithm."""
 
     @staticmethod
