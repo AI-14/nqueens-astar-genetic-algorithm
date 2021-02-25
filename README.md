@@ -4,7 +4,7 @@
    ![A*](https://img.shields.io/badge/-A*%20Algorithm-f0806c?style=flat)
    ![Genetic Algorithm](https://img.shields.io/badge/-Genetic%20Algorithm-g0806c?style=flat)
    
-   Course Project: ICS 381/202 - Principles of Artificial Intelligence
+   Course Project 1: ICS 381/202 - Principles of Artificial Intelligence
    
 ## Description
    Design a GUI for solving N-Queens problem using A* and Genetic Algorihtms. For more details, see *202-ICS381-PA01.pdf*.
