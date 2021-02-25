@@ -1,1 +1,10 @@
-# ICS381-Mini-Project
+# N-Queens Puzzle Solver
+
+## Description
+
+
+
+## Demo GIF/Screenshots
+
+
+## Installation And Usage
