@@ -25,7 +25,7 @@
    <img src="readme_res//TextBasedUI-GeneticAlgorithm.png" width="500"/>
    
    
-   >*I recommend using text-based UI for indepth comparative study.*
+   >*I recommend using text-based UI for an in-depth comparative study.*
    
 
 
