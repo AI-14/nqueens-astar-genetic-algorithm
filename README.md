@@ -12,6 +12,7 @@
 ## Demo GIF/Screenshots
 <details>
    <summary>Click to expand!</summary>
+   
    GUI demo:
 
    ![](readme_res//demo.gif)
