@@ -75,7 +75,7 @@ class GeneticAlgorithm:
         return parent1, parent2
     
     @staticmethod
-    def _rank_selection(population: Population) -> State:
+    def _rank_selection(population: Population) -> Tuple[State, State]:
         """Function to perform rank selection method on a population."""
 
         population.list_of_states.sort(key=lambda state: state.fitness)
