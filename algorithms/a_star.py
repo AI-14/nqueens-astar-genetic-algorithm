@@ -141,7 +141,7 @@ class RunAStarAlgorithm:
         finish_time: float = time.time()
         time_taken: float = finish_time - start_time
 
-        # In this case steps = search_space_depth. Hence, subtracting 1.
+        # Subtracting 1 if all states are expanded and steps increment (flow above).
         if not goal_reached:
             steps -= 1
         
