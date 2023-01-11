@@ -37,6 +37,10 @@
   <summary>Click to expand!</summary>
   <br/>
   
+  ```` OS: Windows 10 ````
+  
+  ```` VsCode ````
+  
   1. Installation
       - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
       - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
