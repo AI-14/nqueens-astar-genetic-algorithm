@@ -10,10 +10,7 @@
    Design a GUI for solving N-Queens problem using A* and Genetic Algorihtms. For more details, see *202-ICS381-PA01.pdf*.
    
 ## Demo GIF/Screenshots
-<details>
-   <summary>Click to expand!</summary>
-   <br/>
-   
+
    GUI demo:
 
    ![](readme_res//demo.gif)
@@ -29,18 +26,9 @@
    <img src="readme_res//TextBasedUI-GeneticAlgorithm.png" width="500"/>
    
    >*I recommend using text-based UI for an in-depth comparative study.*
-      
-</details>
    
 ## Installation And Usage
-<details>
-  <summary>Click to expand!</summary>
-  <br/>
-  
-  ```` OS: Windows 10 ````
-  
-  ```` VsCode ````
-  
+   
   1. Installation
       - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
       - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
@@ -51,6 +39,5 @@
   2. Usage
       - Open your project folder and go to the terminal and activate your virtual environment. 
       - Run PA1.py file.
-     
-</details>
+   
 
